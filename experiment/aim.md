@@ -1,1 +1,1 @@
-### Aim of the experiment
+To improve the quality of a digital image by using smoothing filters for noise reduction and sharpening filters for edge enhancement through spatial domain techniques
