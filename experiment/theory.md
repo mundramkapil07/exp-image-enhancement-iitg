@@ -20,6 +20,6 @@ Digital images often have noise, low contrast, or poor detail visibility because
 
 Mathematically, 
 
-\    g(x, y) = f(x, y) − λ∇2 f(x, y) 
+   g(x, y) = f(x, y) − λ∇2 f(x, y) 
 
 where ∇2f(x, y) is the Laplacian of the image and λ is a scaling factor controlling enhancement strength
