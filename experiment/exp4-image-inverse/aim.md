@@ -4,5 +4,5 @@ fails in the presence of noise. Wiener filtering improves restoration by balanci
 and noise suppression.
 Students will model blur and restore images using inverse and Wiener filtering.
 
-##AIM
+## AIM
 To implement frequency-domain restoration using inverse filtering and Wiener filtering on motion- and Gaussian-blurred images.
