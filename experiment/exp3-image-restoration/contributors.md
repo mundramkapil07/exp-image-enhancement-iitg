@@ -1,5 +1,5 @@
-## Contributors
+### Subject Matter Experts
 
-- Dr. Teena Sharma
-- MF School of Data Science and Artificial Intelligence
-- Indian Institute of Technology Guwahati
+| SNo. | Name         | Email            | Institute       | ID  |
+| ---- | ------------ | ---------------- | --------------- | --- |
+| 1    | TEENA SHARMA | teena@iitg.ac.in |    IIT GUWAHATI |     |
