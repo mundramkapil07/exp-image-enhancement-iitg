@@ -1,0 +1,16 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Edge detection finds:",
+      "answers": {
+        "a": "Noise",
+        "b": "Boundaries",
+        "c": "Histogram peaks",
+        "d": "Blur"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Canny is best known for:",
+      "answers": {
+        "a": "Fastest speed",
+        "b": "Thin, well-connected edges",
+        "c": "Blur removal",
+        "d": "Thresholding"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
