@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Wiener filter improves results by:",
+      "answers": {
+        "a": "Ignoring noise",
+        "b": "Balancing blur inversion & noise suppression",
+        "c": "Increasing blur",
+        "d": "Removing edges"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If PSF is unknown, restoration becomes:",
+      "answers": {
+        "a": "Easy",
+        "b": "Impossible",
+        "c": "Blind deconvolution",
+        "d": "Thresholding"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Inverse filter works best when noise is:",
+      "answers": {
+        "a": "High",
+        "b": "Moderate",
+        "c": "Negligible",
+        "d": "Salt-pepper"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Fourier transform converts convolution into:",
+      "answers": {
+        "a": "Differentiation",
+        "b": "Multiplication",
+        "c": "Integration",
+        "d": "Thresholding"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Wiener filter requires parameter:",
+      "answers": {
+        "a": "Gamma",
+        "b": "K (noise/signal ratio)",
+        "c": "Kernel size",
+        "d": "Threshold T"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Motion blur is caused by:",
+      "answers": {
+        "a": "Sensor noise",
+        "b": "Camera/object movement",
+        "c": "Low contrast",
+        "d": "Threshold error"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inverse filtering is done in:",
+      "answers": {
+        "a": "Spatial domain",
+        "b": "Frequency domain",
+        "c": "Wavelet domain",
+        "d": "Histogram domain"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Wiener filter accounts for:",
+      "answers": {
+        "a": "Only blur",
+        "b": "Only noise",
+        "c": "Blur and noise",
+        "d": "Neither"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "PSF represents:",
+      "answers": {
+        "a": "Histogram",
+        "b": "Blur kernel",
+        "c": "Edge map",
+        "d": "Noise model"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inverse filtering fails when:",
+      "answers": {
+        "a": "PSF known",
+        "b": "Noise present",
+        "c": "RGB image",
+        "d": "Grayscale image"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}
